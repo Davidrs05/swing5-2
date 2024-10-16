@@ -7,7 +7,7 @@ public class CountryLaunches {
 //
 	private String country; // país que ha realizado los lanzamientos
 	private int num; // número de lanzamientos realizado por el páis
-	//G
+	//
 	/**
 	 * Constructor de la clase.
 	 * @param country nombre del país en el que se han realizado los lanzamientos
